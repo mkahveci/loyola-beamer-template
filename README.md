@@ -10,6 +10,8 @@ For contributions, follow the regular GitHub workflow:
 * push, and 
 * do a pull request with details of commits
 
+You may contact me via [kahveci.pw](https://kahveci.pw/contact).
+
 ## Credits
 
 loyola-beamer.cls was inspired by [https://github.com/zhtluo/purdue-slide-template](https://github.com/zhtluo/purdue-slide-template) and written based on Beamer [Metropolis theme](https://ctan.org/pkg/beamertheme-metropolis?lang=en). 
