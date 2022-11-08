@@ -1,8 +1,8 @@
 # A Loyola LaTeX Beamer Template
 
-This template is dedicated to the Loyola University Chicago Community. For issues or contributions visit [https://github.com/mkahveci/loyola-beamer-template](https://github.com/mkahveci/loyola-beamer-template).
+This template is dedicated to the Loyola University Chicago Community. You can view the sample PDF at [overleaf.com](https://www.overleaf.com/latex/templates/a-loyola-latex-beamer-template/ydvmcbhfggcp.pdf). 
 
-For contributions, follow the regular GitHub workflow: 
+For making contributions, follow the regular GitHub workflow.  
 
 * clone
 * make a branch
