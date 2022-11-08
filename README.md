@@ -14,7 +14,7 @@ You may contact me via [kahveci.pw](https://kahveci.pw/contact).
 
 ## Compilation Issues
 
-Depending on local packages in your LaTeX installation, you may encounter compilation issues. However, [overleaf.com](https://www.overleaf.com/) compiles this template error-free and and for individuals 
+Depending on local packages in your LaTeX installation, you may encounter compilation issues. However, [overleaf.com](https://www.overleaf.com/) compiles this template error-free. For individuals, free version of [overleaf.com](https://www.overleaf.com/) subscription is more than good enough.
 
 ## Credits
 
