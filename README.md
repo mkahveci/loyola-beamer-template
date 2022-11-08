@@ -12,6 +12,10 @@ For making contributions, follow the regular GitHub workflow.
 
 You may contact me via [kahveci.pw](https://kahveci.pw/contact).
 
+## Compilation Issues
+
+Depending on local packages in your LaTeX installation, you may encounter compilation issues. However, [overleaf.com](https://www.overleaf.com/) compiles this template error-free and and for individuals 
+
 ## Credits
 
 loyola-beamer.cls was inspired by [https://github.com/zhtluo/purdue-slide-template](https://github.com/zhtluo/purdue-slide-template) and written based on Beamer [Metropolis theme](https://ctan.org/pkg/beamertheme-metropolis?lang=en). 
@@ -20,4 +24,4 @@ The University name and logos are owned by Loyola University Chicago [https://ww
 
 Enjoy!
 
-![](./figures/slide.jpg)
+[![](./figures/slide.jpg)](https://www.overleaf.com/latex/templates/a-loyola-latex-beamer-template/ydvmcbhfggcp.pdf)
