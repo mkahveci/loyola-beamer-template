@@ -1,5 +1,7 @@
 # A Loyola LaTeX Beamer Template
 
+![](./figures/slide.jpg)
+
 This template is dedicated to the Loyola University Chicago Community. You can view the sample PDF at [overleaf.com](https://www.overleaf.com/latex/templates/a-loyola-latex-beamer-template/ydvmcbhfggcp.pdf). 
 
 For making contributions, follow the regular GitHub workflow.  
