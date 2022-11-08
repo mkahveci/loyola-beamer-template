@@ -32,4 +32,4 @@ The University name and logos are owned by Loyola University Chicago [https://ww
 
 Enjoy!
 
-[![](./figures/slide.jpg)](https://www.overleaf.com/latex/templates/a-loyola-latex-beamer-template/ydvmcbhfggcp.pdf)
+[![](./figures/slide.jpg)](https://www.overleaf.com/latex/templates/a-loyola-latex-beamer-template/ydvmcbhfggcp)
