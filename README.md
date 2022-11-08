@@ -1,7 +1,5 @@
 # A Loyola LaTeX Beamer Template
 
-![](./figures/slide.jpg)
-
 This template is dedicated to the Loyola University Chicago Community. You can view the sample PDF at [overleaf.com](https://www.overleaf.com/latex/templates/a-loyola-latex-beamer-template/ydvmcbhfggcp.pdf). 
 
 For making contributions, follow the regular GitHub workflow.  
@@ -21,3 +19,5 @@ loyola-beamer.cls was inspired by [https://github.com/zhtluo/purdue-slide-templa
 The University name and logos are owned by Loyola University Chicago [https://www.luc.edu/umc/brandstandards/graphicidentity/downloads/](https://www.luc.edu/umc/brandstandards/graphicidentity/downloads/)
 
 Enjoy!
+
+![](./figures/slide.jpg)
